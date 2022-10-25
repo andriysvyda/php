@@ -21,7 +21,7 @@ class Auction
 
     public static function validationDataAuctions($array)
     {
-        return !(
+        return (
             empty($array['name']) ||
             empty($array['startlot']) ||
             empty($array['endlot']) ||
