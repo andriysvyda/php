@@ -1,0 +1,5 @@
+a:4:{i:0;O:6:"Auction":6:{s:2:"id";i:1;s:4:"name";s:3:"Glasses";s:5:"startlot";s:4:"15.10.2022";s:7:"endlot";s:12:"12.10.2022"
+;s:4:"firstprice";i:6000;s:4:"lastprice";d:9000;}
+i:1;O:6:"Auction":6:{s:2:"id";i:2;s:4:"name";s:4:"startlot";s:5:"startlot";s:4:"17.10.2022";s:7:"endlot";s:12:"16.10.2022";s:4:"firstprice";i:7000;s:4:"lastprice";d:11000;}
+i:2;O:6:"Auction":6:{s:2:"id";i:3;s:4:"name";s:4:"Ipad";s:5:"startlot";s:4:"19.10.2022";s:7:"endlot";s:12:"18.10.2022";s:4:"firstprice";i:9000;s:4:"lastprice";d:22000;}
+i:3;O:6:"Auction":6:{s:2:"id";i:4;s:4:"name";s:4:"MacBook";s:5:"startlot";s:6:"21.10.2022";s:7:"endlot";s:12:"20.10.2022";s:4:"firstprice";i:22000;s:4:"lastprice";d:33000;}}
